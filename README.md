@@ -1,8 +1,8 @@
-# 8bit FPGA (2021)
+# SAP-1 for TinyFPGA BX
 
 An FPGA version of the 8-bit computer built by Ben Eater in his [series of videos](https://eater.net/8bit).
 
-[Here is a blog post about it.](https://austinmorlan.com/posts/8bit_breadboard_fpga/)
+Modified from Austin Morlan's 8 bit breadboard computer.
 
-![Demo](https://austinmorlan.com/posts/8bit_breadboard_fpga/media/output_7seg.gif)
+[Here is a blog post about it.](https://austinmorlan.com/posts/8bit_breadboard_fpga/)
 
